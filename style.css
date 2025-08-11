@@ -1,8 +1,15 @@
 :root{
   
- --bg: #F2F2F2;
- --card: #F7F7F7;
+ --bg: #F2F2F2;    /* main background  */
+ --card: #F7F7F7;  /* soft grey for cards */
+ --ink: #141414;     /* main text color */
+ --accent: #ff6db1;     /* brand pink */
+ --accent-2: #ffd2eb;   /* lighter pink */
+ --pill: #f9e6f2;       /* pale pink for buttons/pills */
 
+
+  --radius: 18px;      /* rounded corners */
+  --safe-w; 900px:      /* max width for content area */
 
 
 
