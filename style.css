@@ -37,3 +37,41 @@ body {
   grid-template-rows: auto 1fr auto; /* header, main, footer */
 
 }
+
+
+  .app-header {
+    position: sticky; top: 0; z-index: 10;
+    display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    padding: 10px 14px;
+    background: linear-gradient(180deg,#fff 0%, #fff8fc 40%, transparent 100%);
+    backdrop-filter: saturate(140%) blur(6px);
+}
+
+  .brand {
+  font-weight: 800; 
+  letter-spacing: .3px;
+}
+
+.wallet {
+  background: #fff;
+  padding: 6px 12px;
+  border-radius: 999px; /* full pill shape */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
