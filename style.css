@@ -9,13 +9,17 @@
 
 
   --radius: 18px;      /* rounded corners */
-  --safe-w; 900px:      /* max width for content area */
-
-
-
-
-
-
-
+  --safe-w; 900px;      /* max width for content area */
   
 }
+
+* {
+  box-sizing: border-box: 
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body
