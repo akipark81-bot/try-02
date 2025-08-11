@@ -32,3 +32,8 @@ body {
     var(--bg) 60%,
     #BFD7FF 100%
   );
+
+  display: grid;
+  grid-template-rows: auto 1fr auto; /* header, main, footer */
+
+}
